@@ -137,6 +137,26 @@ The complete experiment can be run using the notebook located in the notebooks/ 
 
 
 
+# Dataset:
+
+
+
+This project uses network traffic datasets for cyber attack detection and classification.
+
+The datasets contain both normal network traffic and different types of cyber attacks and are used for training and evaluating the proposed two-layer machine learning system:
+
+* Layer 1: Binary classification (Normal vs. Attack)
+* Layer 2: Multi-class classification of different attack types
+
+
+  
+** Dataset Availability: **
+
+
+
+The datasets are not included in this repository because some of the original CSV files exceed GitHub's file size limit.
+The dataset was used locally during the development, training, and evaluation of the machine learning models.
+
 
 
 
